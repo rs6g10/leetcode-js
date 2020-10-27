@@ -2,3 +2,11 @@
 
 ## Tags
 * [Array](https://leetcode.com/tag/array/)
+
+## General questions (not leetcode)
+* Binary Search
+* Digits to words
+* LRU cache
+* Reverse number (without converting to strings)
+* Wiggle sort
+
